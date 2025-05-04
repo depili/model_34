@@ -1,0 +1,26 @@
+DA25	Liitin
+1		1		Timing 1
+2		2		Timing 1
+3		3		Timing 2
+4		4		Timing 2
+5		5
+6		6
+7		7		Solenoid 1
+8		8		Solenoid 1
+9		9		Solenoid 2
+10		10		Solenoid 2
+11		11
+12		13
+13		14
+14		15
+15		12
+
+17		A		Selector common
+18		B		Track 1
+19		C		Track 2
+20		D		Track 3
+21		E		Track 4
+22		F		Track 5
+23		G		Track 6
+24		H		Track 7
+25		I		Track 8
